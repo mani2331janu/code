@@ -1,6 +1,13 @@
-# 
-Developed a static restaurant website using React.js,
-HTML, and CSS. Designed a responsive and visually
-appealing layout compatible across devices. Created
-an engaging user interface and optimized
-performance with efficient coding practices.
+# Institute Management System
+
+
+ * Developed an Institute Management System with
+   HTML, CSS, JavaScript, Bootstrap, and PHP.
+*  An Institute Management System streamlines
+   administrative tasks in educational settings, managing
+   student admissions, attendance, faculty operations,
+   curriculum planning, and finances.
+*  By automating these processes, it promotes efficiency,
+   transparency, and collaboration
+   among administrators, faculty, and students,
+   ultimately enhancing the academic experience
